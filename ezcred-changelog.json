@@ -1,9 +1,10 @@
 {
-  "latestVersion": "1.0.31",
-  "latestVersionCode": 31,
+  "latestVersion": "1.0.32",
+  "latestVersionCode": 32,
   "url": "https://play.google.com/store/apps/details?id=com.ezcred.ezapp",
   "releaseNotes": [
-    "- Overlay permission issue.",
+    "- Ekyc fixes.",
+    "- IMEI verification.",
     "- Bug fixes..."
   ]
 }
