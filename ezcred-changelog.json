@@ -1,10 +1,9 @@
 {
-  "latestVersion": "1.0.33",
-  "latestVersionCode": 33,
+  "latestVersion": "1.0.34",
+  "latestVersionCode": 34,
   "url": "https://play.google.com/store/apps/details?id=com.ezcred.ezapp",
   "releaseNotes": [
-    "- Support for Digio esign OTP.",
-    "- API changes.",
+    "- Bank details fixes.",
     "- Bug fixes..."
   ]
 }
