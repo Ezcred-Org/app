@@ -1,9 +1,10 @@
 {
-  "latestVersion": "1.0.34",
-  "latestVersionCode": 34,
+  "latestVersion": "1.0.35",
+  "latestVersionCode": 35,
   "url": "https://play.google.com/store/apps/details?id=com.ezcred.ezapp",
   "releaseNotes": [
-    "- Bank details fixes.",
+    "- Forced Updater fixed.",
+    "- Change Password option added.",
     "- Bug fixes..."
   ]
 }
