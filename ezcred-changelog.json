@@ -1,9 +1,11 @@
 {
-  "latestVersion": "1.0.50",
-  "latestVersionCode": 50,
+  "latestVersion": "1.0.51",
+  "latestVersionCode": 51,
   "url": "https://play.google.com/store/apps/details?id=com.ezcred.ezapp",
   "releaseNotes": [
-    "- OTP Phone Auth fixes.",
+    "- Bank Statement fixes.",
+    "- Client doc upload.",
+    "- New EMI Scheme flows.",
     "- Bug fixes..."
   ]
 }
