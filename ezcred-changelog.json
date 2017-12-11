@@ -1,9 +1,9 @@
 {
-  "latestVersion": "1.0.62",
-  "latestVersionCode": 62,
+  "latestVersion": "1.0.63",
+  "latestVersionCode": 63,
   "url": "https://play.google.com/store/apps/details?id=com.ezcred.ezapp",
   "releaseNotes": [
-    "- Address issue fixes",
+    "- Search loan by account number",
     "- Bug fixes"
   ]
 }
