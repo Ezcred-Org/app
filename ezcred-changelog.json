@@ -1,9 +1,11 @@
 {
-  "latestVersion": "1.0.70",
-  "latestVersionCode": 70,
+  "latestVersion": "1.0.71",
+  "latestVersionCode": 71,
   "url": "https://play.google.com/store/apps/details?id=com.ezcred.ezapp",
   "releaseNotes": [
-    "- Digio Esign issue solved",
+    "- New loan flow",
+    "- Client image click and zoomable",
+    "- Fixes in perfios",
     "- Bug fixes"
   ]
 }
