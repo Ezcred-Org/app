@@ -1,8 +1,9 @@
 {
-  "latestVersion": "1.0.79",
-  "latestVersionCode": 79,
+  "latestVersion": "1.0.80",
+  "latestVersionCode": 80,
   "url": "https://play.google.com/store/apps/details?id=com.ezcred.ezapp",
   "releaseNotes": [
+    "- eKYC retry option added",
     "- Bug fixes"
   ]
 }
