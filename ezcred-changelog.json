@@ -1,9 +1,11 @@
 {
-  "latestVersion": "1.0.80",
-  "latestVersionCode": 80,
+  "latestVersion": "1.0.81",
+  "latestVersionCode": 81,
   "url": "https://play.google.com/store/apps/details?id=com.ezcred.ezapp",
   "releaseNotes": [
-    "- eKYC retry option added",
+    "- Digio eSign using biometric enabled",
+    "- Address proof document fixes",
+    "- Brands based on categories",
     "- Bug fixes"
   ]
 }
