@@ -1,10 +1,9 @@
 {
-  "latestVersion": "1.0.92",
-  "latestVersionCode": 92,
+  "latestVersion": "1.0.93",
+  "latestVersionCode": 93,
   "url": "https://play.google.com/store/apps/details?id=com.ezcred.ezapp",
   "releaseNotes": [
-    "- Bank Statement UI Changes",
-    "- Bank Details Flow Changes",
+    "- Selfie with product stage added",
     "- Bug fixes"
   ]
 }
