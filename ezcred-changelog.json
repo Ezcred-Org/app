@@ -1,10 +1,9 @@
 {
-  "latestVersion": "1.0.95",
-  "latestVersionCode": 95,
+  "latestVersion": "1.0.96",
+  "latestVersionCode": 96,
   "url": "https://play.google.com/store/apps/details?id=com.ezcred.ezapp",
   "releaseNotes": [
-    "- Search feature for choosing brands and models",
-    "- Input DOB in client creation",
+    "- Allowing pdf in bank statement",
     "- Bug fixes"
   ]
 }
