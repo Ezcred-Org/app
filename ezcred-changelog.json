@@ -1,8 +1,10 @@
 {
-  "latestVersion": "1.0.119",
-  "latestVersionCode": 119,
+  "latestVersion": "1.0.120",
+  "latestVersionCode": 120,
   "url": "https://play.google.com/store/apps/details?id=com.ezcred.ezapp",
   "releaseNotes": [
-    "- Bug fixes"
+    "- Aadhaar number removed from client details screen", 
+    "- Bug fixes",
+    "- Google map in address stage"
   ]
 }
